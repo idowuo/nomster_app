@@ -10,3 +10,12 @@
   margin-top: 10px;
 } 
 
+body {
+  background: image_url('images/crossword.png');
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+}
+
+.navbar {
+  background: image_url('images/cartographer.png');
+  box-shadow: 0px 1px 3px #2a2a2a;
+}
